@@ -6,16 +6,6 @@ The OpenTable Restaurant Data Analysis project focuses on analyzing restaurant d
 
 By leveraging Python, SQL, Dash, Power BI, and other tools, the project helps in uncovering valuable insights into customer preferences, restaurant performance, and trends in different cities.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Steps Involved](#steps-involved)
-- [Project Structure](#project-structure)
-- [Requirements](#requirements)
-- [How to Run](#how-to-run)
-- [Conclusion](#conclusion)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 ## Project Overview
 
